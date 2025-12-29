@@ -43,7 +43,7 @@ cd album-cover-downloader`
 2- Crear entorno virtual (recomendado)
 
 `python3 -m venv venv
-source venv/bin/activate
+source venv/bin/activate`
 
 Cuando esté activo verás:
 
@@ -59,7 +59,7 @@ Cuando esté activo verás:
 
 2-Ejecuta:
 
-`python descargar_portadas.py
+`python descargar_portadas.py`
 
 ## Resultado
 
