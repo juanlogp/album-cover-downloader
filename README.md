@@ -62,7 +62,6 @@ Cuando esté activo verás:
 Se creará una carpeta portadas/ con una imagen por álbum:
 
 Metallica - Kill 'Em All.jpg
-Foo Figjters - Wasting Light.jpg
 
 ## Personalización
 
