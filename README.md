@@ -9,11 +9,7 @@ Script en **Python** que recorre una biblioteca de música organizada por **Arti
 
 ## Estructura de carpetas esperada
 
-Música/
-├── Artista/
-│ └── Álbum/
-│ ├── 01 - canción.mp3
-│ ├── 02 - canción.mp3
+Música/Artista/Album
 
 
 Ejemplo:
@@ -65,19 +61,15 @@ Cuando esté activo verás:
 
 Se creará una carpeta portadas/ con una imagen por álbum:
 
-portadas/
- ├── Metallica - Kill 'Em All.jpg
- ├── Foo Fighters - Wasting Light.jpg
- ├── Hällas - Excerpts From a Future Past.jpg
-
+Metallica - Kill 'Em All.jpg
+Foo Figjters - Wasting Light.jpg
 
 ## Personalización
 
 Dentro de descargar_portadas.py puedes modificar:
 
-ROOT_MUSIC_DIR = "Música"
-COVERS_DIR = "portadas"
-
+ROOT_MUSIC_DIR = ruta carpeta música
+COVERS_DIR = ruta a carpeta portadas
 
 ---
 
