@@ -7,8 +7,6 @@ Script en **Python** que recorre una biblioteca de música organizada por **Arti
 ✔ No modifica los archivos MP3  
 ✔ Usa fuentes abiertas (MusicBrainz + Cover Art Archive)
 
----
-
 ## Estructura de carpetas esperada
 
 Música/
@@ -21,10 +19,9 @@ Música/
 Ejemplo:
 
 Música/Metallica/Kill 'Em All/
+
 Música/Foo Fighters/Wasting Light/
 
-
----
 
 ## Requisitos
 
